@@ -22,17 +22,15 @@ V.	Average Crime per Hood: Shows the average crime per neighborhood, filtered by
 VI.	Top 5 Highest Neighborhoods: This bar chart shows the top 5 neighborhoods with the most crimes for the given type and year, filtered by Rate/Count, Year, and Type. The hood names can be selected to be shown on the map and the “Number of Crimes” will also change accordingly.
 VII.	Heat Map: This shows the heat map of crime, filtered by Rate/Count, Type, and Year. Selecting a region changes the “Spread of Crime” pie chart to represent that hood. The different hoods can also be hovered over to see the crime/rate. 
 VIII.	“Proportion of Crime”: This pie chart shows the sorted proportion of crimes, filtered by Year, Type, and Hood (chosen using the map). This also acts as a filter of Type for every other visual.
- 
-Figure 1: Distribution of Crime in Toronto Neighborhoods
+
+
+
 
 2.2) Insights:
 The First dashboard’s purpose is to understand crime in different neighborhoods. The dashboard allows you to quickly see which neighborhood contains the most amount of crime and which neighborhoods are relatively safer. Users interested in the distribution of crimes in a particular location can do so using the pie chart. The important takeaways can also be seen at the top. Users interested in only a particular crime can also filter by that crime. 
 
 Example use case: A user interested in the count of Assault cases for 2021 can input those filters. The user will quickly see the total number of crimes in 2021 for assault cases was 19,044. The highest crime was 971 and the average number of cases per neighborhood was 136. The user will also be able to see the top 5 worst neighborhoods in terms of Assault where they can click on the bars to have the neighborhoods highlighted on the map. They will also be able to tell, at a glance, how assault crimes are spread across Toronto. 
 
-
-
-3.)	Dashboard 2: Crime over the years in Toronto
 
 3.1) Explanation of Visuals: See Figure 2 (page 4):
 I.	The color scheme for the overall dashboard was chosen to be blue as it is the color scheme used by the Toronto Police Department. 
